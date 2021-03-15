@@ -1,7 +1,7 @@
 const inquirer = require("inquirer");
 const mysql = require("mysql");
 const { printTable } = require("console-table-printer");
-//user must use own host,port, and password to connect to Mysql
+//user must use own port, user and password to connect to Mysql
 const connection = mysql.createConnection({
     host: 'localhost',
     port: 3306,
