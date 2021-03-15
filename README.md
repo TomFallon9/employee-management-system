@@ -52,7 +52,11 @@ The application will be invoked with the following command:
 ```
 node server.js
 ```
+<p><img src="assets/etsGif1.gif"width="600"/></p>
 
+<p><img src="assets/etsGif2.gif"width="600"/></p>
+
+<p><img src="assets/etsGif3.gif"width="600"/></p>
 
 
 ## Built With
