@@ -27,7 +27,7 @@ As a business owner, I want to be able to view and manage the departments, roles
 
 ## Installation
 
-User can clone this repository, make sure to ahve Node and MySQL installed. 
+User can clone this repository, make sure to have Node and MySQL installed. 
 
 Dependencies are [Inquirer](https://www.npmjs.com/package/inquirer) for collecting input from the user and [MySQL](https://www.npmjs.com/package/mysql) to connect to the MySQL database and perform queries. To install the dependencies, run the following command:
 ```
